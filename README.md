@@ -12,4 +12,6 @@ Really none
 
 ## How To Contribute
 
+Another paragraph under contribute
+
 ## Deployment

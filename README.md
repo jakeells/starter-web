@@ -21,9 +21,5 @@ review.
 The deployments will be exciting
 Some extra modifications
 
-<<<<<<< HEAD
-2019 Git.Training.
-=======
 2019 Git.Training.
 This is great!
->>>>>>> add-copyright

@@ -20,3 +20,4 @@ The deployments will be exciting
 Some extra modifications
 
 2019 Git.Training.
+This is great!

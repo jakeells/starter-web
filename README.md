@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-Really none. There are some new things that have showed up for rebasing example.
+Really none. There are some new things that have showed up for rebasing example. Looks like the rebasing example worked. Now we have text from myfeature branch too.
 
 ## How To Contribute
 

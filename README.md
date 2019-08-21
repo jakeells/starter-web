@@ -18,3 +18,5 @@ Another paragraph under contribute
 
 The deployments will be exciting
 Some extra modifications
+
+2019 Git.Training.

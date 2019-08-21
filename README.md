@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-Really none
+Really none. There are some new things that have showed up for rebasing example.
 
 ## How To Contribute
 

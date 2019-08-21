@@ -13,6 +13,8 @@ Really none
 ## How To Contribute
 
 Another paragraph under contribute
+Please fork this repository and then issue pull requests for
+review.
 
 ## Deployment
 
